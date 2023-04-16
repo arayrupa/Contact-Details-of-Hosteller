@@ -27,30 +27,56 @@ Enter the Details:
 Student Id:   1
 
 Student Name:  John
+
 Department Id:  101
+
 Gender:  Male
+
 Phone Number: 9848586878
+
 Hostel Name:  YMCA
+
 Room Number:  10
+
 Modify Room Number(Y/N): Y
+
 New Room Number: 11
+
 Modify Phone Number(Y/N): Y
+
 New Phone Number: 9876543128
+
 Sample Output 1:
+
 The Student Details
+
 1 John 101 Male 9876543121 YMCA 11
+
 Sample Input 2:
+
 Enter the Details: 
+
 Student Id: 2
+
 Student Name: John Paul
+
 Department Id: 112
+
 Gender: Male
+
 Phone Number: 9775526536
+
 Hostel Name: YMBA
+
 Room Number: 5
+
 Modify Room Number(Y/N): N
+
 Modify Phone Number(Y/N): N
+
 Sample Output 2:
+
 The Student Details:
+
 2 John Paul 112 Male 9885526536 YMBA 5
 
