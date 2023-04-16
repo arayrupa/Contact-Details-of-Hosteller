@@ -21,8 +21,11 @@ public static Hosteller getHostellerDetails().
 Invoke this method from the main method and then modify the room number and phone number, if needed.
 
 Sample Input 1:
+
 Enter the Details:
+
 Student Id:   1
+
 Student Name:  John
 Department Id:  101
 Gender:  Male
